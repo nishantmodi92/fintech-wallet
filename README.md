@@ -1,21 +1,19 @@
-# FinTech Wallet – Secure Digital Payments
+## 💳 FinMate – Digital Wallet App 
 
-## 🧑‍💼 Freelance Client Project
+> FinMate is a completed digital wallet app offering tokenized payments, biometric security, and real-time transaction analytics.
 
-## 🔧 Tech Stack
-- Kotlin, Firebase (Auth, Firestore, FCM)
-- Google Pay API, Stripe SDK
-- MVVM, Jetpack Compose, Hilt
+### 🔧 Tech Stack
+- Kotlin, Jetpack Compose, MVVM
+- Firebase Auth, Firestore, Room
+- Stripe SDK, Google Pay API, BiometricAuth
 
-## ✨ Features
-- Biometric Authentication (FaceID/Fingerprint)
-- Tokenized Stripe & Google Pay transactions
-- Real-time spending dashboard
-- OTP & multi-layer fraud protection
+### 🌟 Features
+- Send & receive payments securely
+- Biometric login and tokenized transactions
+- Budget dashboard with real-time analytics
+- Multi-layered security & fraud prevention
 
-## 📈 Outcomes
-- 98% successful transactions
-- 60% reduction in fraud
-- 35% increase in user retention
-
-🔒 *Source code not available due to client agreement.*
+### 👨‍💻 Author
+**Nishant Modi**  
+📫 [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/nishantmodi92)
