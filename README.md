@@ -1,53 +1,30 @@
-# 💸 FinMate
+# 💰 FinMate
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=flat&logo=googlepay&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Biometric](https://img.shields.io/badge/Biometric_Auth-green?style=flat)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room-Database-007396?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
+![Finance](https://img.shields.io/badge/Personal-Finance-teal?style=for-the-badge)
 
-## 🔐 FinTech Wallet App for Secure Digital Payments
 
-FinMate is a modern FinTech wallet app built in Kotlin using Jetpack Compose. It enables users to manage digital payments, track spending, authenticate securely, and visualize transactions—all with a clean, secure, and engaging interface.
+A personal finance tracker to manage budgets, expenses, and spending insights with clean Compose UI and offline support.
 
----
-
-## ✨ Features
-
-- 💳 Biometric authentication (Fingerprint/FaceID)
-- 🔐 Tokenized & encrypted payments
-- 💸 Google Pay & Stripe payment integration
-- 📊 Expense analytics dashboard
-- 📈 Budget planning and financial goals
-- 🔔 Smart notifications & fraud alerts
-- 🔁 Transaction history & refund tracking
-
----
+## 🚀 Features
+- 💸 Track income and expenses by category
+- 📊 Budget planning and trend analytics
+- 🧾 Local persistence with Room DB
+- 🎨 Modern and interactive UI with Jetpack Compose
 
 ## 🧰 Tech Stack
+- **Language**: Kotlin
+- **UI**: Jetpack Compose
+- **Database**: Room DB
+- **Architecture**: MVVM + Repository
+- **Extras**: Coroutines, DataStore
 
-- **Language:** Kotlin
-- **UI:** Jetpack Compose, Material Design 3
-- **Architecture:** MVVM, Clean Architecture
-- **Dependency Injection:** Hilt
-- **Database:** Room, Firebase
-- **APIs:** Google Pay API, Stripe SDK
-- **Security:** EncryptedSharedPreferences, BiometricPrompt
+## 📦 Architecture
+Implements MVVM with repository pattern for clean, scalable local data handling.
 
----
-
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss the changes you’d like to make.
-
----
-
-## 📄 License
-MIT License
-
----
-
-## 📬 Contact
-**Nishant Modi**  
-📧 nishantmodimaster@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nishantmodi92)
+## 🔗 Repository
+[👉 GitHub – FinMate](https://github.com/nishantmodi92/FinMate)
+"""
