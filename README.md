@@ -53,6 +53,5 @@ MVVM + UseCases + Repository + Firebase APIs
 ---
 
 ## 🔗 Links
-
-- [GitHub Repo](https://github.com/nishantmodi92/FinMate)
+ [Github Repo](https://github.com/nishantmodi92/fintech-wallet)
 
